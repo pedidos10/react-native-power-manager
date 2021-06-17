@@ -1,17 +1,22 @@
 
 {
-  "name": "react-native-power-manager",
+  "name": "@pedidos10/react-native-power-manager",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedidos10/react-native-power-manager"
+  },
+  "homepage": "https://github.com/pedidos10/react-native-power-manager",
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Lucas Hang",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
